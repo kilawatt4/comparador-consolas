@@ -4,7 +4,7 @@ Este es el proyecto final que hice en mi curso de DAM, utilizé PHP, html,
 XAMPP como base de datos y sql.
 
 El link para ver el proyecto online es: 
-** http://comparador-consolas.epizy.com/ **
+**http://comparador-consolas.epizy.com/**
 
 Aqui podreis ver como queda, pero la organización del codigo está hecha
 con el modelo vista-controlador y un index.php donde pongo el código de html,
